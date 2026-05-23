@@ -1,6 +1,9 @@
 # SOLEMNE-II-Pensamiento-Computacional
 Este proyecto es una exploración de arte cinetico y principios de la bauhaus mediado por el pensamiento computacional. A través del sistema, la estética resultante es la de una interacción directa entre la lógica del bucle anidado y la respuesta reactiva del usuario.
 
+## Link al Proyecto
+https://editor.p5js.org/Dafnne/sketches/VjUtAE4J_
+
 # Sistemas Geométricos Reactivos
 
 ## Descripción Objetiva
